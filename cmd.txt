@@ -1,0 +1,4 @@
+hi tezz how are you i am writing this code via cmd promot
+esc : wq
+Esc : wq
+Esc : W Q
